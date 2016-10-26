@@ -1,2 +1,14 @@
 # Udacity-IPND-Stage3
-Udacity Intro to Programming Nanodegree, Stage 3 Project
+###Project for Udacity Intro to Programming Nanodegree (IPND)
+
+###Stage 3: Create a Movie Website
+
+####by Joy | bjemcnally | bjemcnally@gmail.com
+
+Started: 
+
+First submitted:
+
+Met specifications:
+
+

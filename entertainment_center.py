@@ -52,4 +52,6 @@ the_holiday = media.Movie(
 movies = [imitation_game, the_rock, sense_and_sensibility,
           ratatouille, playing_by_heart, the_holiday]
 
+# Uses a list of movie instances (movies) as input to generate an HTML file
+# and open it in the browser
 fresh_tomatoes.open_movies_page(movies)

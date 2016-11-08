@@ -6,6 +6,7 @@ class Movie():
 
     def __init__(self, movie_title, movie_rating, poster_image,
                  trailer_youtube, streaming_availability, movie_stars):
+        """ input arguments store data for each Movie instance """
         self.title = movie_title
         self.rating = movie_rating
         self.poster_image_url = poster_image

@@ -18,6 +18,6 @@ Create a class Movie, define several individual instances of that class, and the
 To view the complete movie website, download this repository and then run Python file entertainment_center.py
 
 ####Credits: 
-[Udacity](http://www.udacity.com) provided original fresh_tomatoes.py file, [YouTube](http://www.youtube.com) hosts the movie trailers, other content for movie website was borrow from each movie's [Wikipedia](http://www.wikipedia.com) and/or [IMDB](http://www.imdb.com) page
+[Udacity](http://www.udacity.com) provided original fresh_tomatoes.py file, [YouTube](http://www.youtube.com) hosts the movie trailers, other content for movie website was borrowed from each movie's [Wikipedia](http://www.wikipedia.com) and/or [IMDB](http://www.imdb.com) page
 
 

@@ -1,5 +1,5 @@
 import fresh_tomatoes
-import media # refers to media.py file
+import media  # refers to media.py file
 
 imitation_game = media.Movie(
     "The Imitation Game",
@@ -49,6 +49,7 @@ the_holiday = media.Movie(
     "Amazon Video, iTunes",
     "Kate Winslet, Cameron Diaz, Jude Law")
 
-movies = [imitation_game, the_rock, sense_and_sensibility, ratatouille, playing_by_heart, the_holiday]
+movies = [imitation_game, the_rock, sense_and_sensibility,
+          ratatouille, playing_by_heart, the_holiday]
 
 fresh_tomatoes.open_movies_page(movies)

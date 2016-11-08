@@ -154,7 +154,7 @@ def create_movie_tiles_content(movies):
             trailer_youtube_id=trailer_youtube_id,
             movie_rating=movie.rating,
             streaming_availability=movie.streaming,
-            movie_stars=movie.stars 
+            movie_stars=movie.stars
         )
     return content
 

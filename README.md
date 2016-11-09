@@ -9,7 +9,7 @@ Started: 11/8/2016
 
 First submitted: 11/8/2016
 
-Met specifications:
+Met specifications: 11/8/2016
 
 ####Project Description: 
 Create a class Movie, define several individual instances of that class, and then use fresh_tomatoes.py (provided by Udacity) to generate a basic movie website where users can view movie posters and watch trailers.
